@@ -254,11 +254,9 @@ ipykernel
 
 ## Author
 
-**Your Name**  
+**Sonalika Singh**  
 Mathematics postgraduate | Aspiring Data Analyst / Data Scientist
 
-- GitHub: [Add your GitHub profile URL]
-- LinkedIn: [Add your LinkedIn profile URL]
 
 ## Acknowledgement
 
